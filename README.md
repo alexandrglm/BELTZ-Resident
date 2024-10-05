@@ -1,5 +1,5 @@
 # BELTZ - V.0.1 - Linux Security Resident CLI
-## Boundary Enhanced Layered Threat Zeroday-ing
+## Boundary Enhanced Linux Threat Zeroday-ing
 
 A CLI application that proactively monitors and secures system and network activity, using a simple learning mechanism, which allows it to operate autonomously and discreetly, to ensure and secure your Linux system.
 
